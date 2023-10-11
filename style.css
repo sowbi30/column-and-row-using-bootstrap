@@ -24,3 +24,7 @@ a{
     color: white;
     font-weight: bold;
 }
+.box {
+    background-color: whitesmoke;
+    padding: 20px 5px;
+}
